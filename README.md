@@ -49,7 +49,7 @@ This is a machine learning-based Flask web application that predicts house price
    python app.py
 ## 🌐 Live Demo
 
-🔗 [Click here to use the Pune House Price Predictor](https://pune-house-price-predictor.onrender.com)
+🔗 [Click here to use the Pune House Price Predictor][(https://pune-house-prediction-uyax.onrender.com)]
 # 📷 Screenshots
 ![Screenshot 2025-05-30 090838](https://github.com/user-attachments/assets/f9339f5a-86ff-400c-aae3-384f239b3f99)
 
